@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311316864375",
+    "project_id": "spacelab-2dd51",
+    "storage_bucket": "spacelab-2dd51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311316864375:android:3c395c7e8384f2c803d572",
+        "android_client_info": {
+          "package_name": "com.example.twitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9c0WUdiDa_9UCAH5rgP0yWAEuBd5gKnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
